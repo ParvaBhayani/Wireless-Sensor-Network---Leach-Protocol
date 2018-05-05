@@ -1,0 +1,6 @@
+
+Abstract
+
+With advancements and discovery of new technologies over a decade, it has become essential to establish connectivity amongst two or more devices, sending data over different networks, receiving data from external source etc. In order to accomplish this goal, energy or power source is the most crucial aspect and minimizing power consumption is the ultimate goal. One such network for sending data to and fro is Wireless Sensor Networks (WSN).It provides with wireless connectivity between nodes which transmit information through sensing. Major components of WSN include a group of sensor nodes, a cluster head, also known as leader and a base station. Base station is just a kind of data repository where the whole bulk of information collected from the sensor nodes is stored.
+
+
